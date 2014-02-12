@@ -1,4 +1,5 @@
 $(document).ready(function() {
+	
 						   
 	var hash = window.location.hash.substr(1);
 	var href = $('#nav li a').each(function(){
